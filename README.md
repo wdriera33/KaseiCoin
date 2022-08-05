@@ -3,34 +3,34 @@
 ![alt text](https://raw.githubusercontent.com/wdriera33/KaseiCoin/main/KaseiCoin.jpeg "Logo Title Text 1")
 
 
-# Cloud Services
-* AWS Services
-* AWS Lambda Function
+# Software Services
+* Remix 
+* Ganache
+* MetaMask
+* OpenZeppelin
 
 
-## Libraries use for Script
-* Pandas 
-* Matplotlib
-* hvplot
+## Import Library
+* ERC20
+* ERC20 Detailed
+* ERC20 Mintable
 * Sklearn
 * Pathlib 
 
 
 # Overview 
-* Digital transformation consultant
-* Machine learning and NLP
-* Created a robo advisor for investment portfolio recommendations
+* Created KaseiCoin to mint
+* Created KaseiCoinCrowdsale for transaction
+* Used Ganache Wallet for transaction
+* Used Metamask to verify transaction
 
 
 # Conclusion
-* I used my well known skills in Amazon Web Services & Python, to create a bot that will recommend an investment portfolio for a retirement plan.
+* Remix was used to deploy & run transactions for KaseiCoin & KaseiCoinCrowdsale contracts. Ganache was used as the hot wallet to connect to Metamask for trasaction to verify & exchange wallets. Coins were able to be changed from ether to KaseiCoin. 
 
 # Resources
-* lambda_function.py
-* correct_dialog.txt
-* age_error.txt
-* incorrect_amount_error.txt
-* negative_age_error.txt
+* OpenZeppelin
+
 
 
 #
