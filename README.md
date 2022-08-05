@@ -30,12 +30,9 @@
 
 # Resources
 * OpenZeppelin
-
-
-
 #
 #
-##  Preparation
-## Written By: 
-William Riera
+##   William Riera
+
+
 
